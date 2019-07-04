@@ -60,8 +60,7 @@
     {
       "index": 4,
       "question": "Qual sua familiariedade com os tipos de investimentos abaixo? <br/> Leve em consideração o valor aplicado nos últimos 2 anos",
-      "radioQuestion": false,
-      
+      "radioQuestion": false      
     }
   ],
   "select-options": [
