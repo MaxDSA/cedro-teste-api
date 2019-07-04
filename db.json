@@ -56,6 +56,30 @@
           "description": "Até 25%"
         }
       ]
+    },
+    {
+      "index": 4,
+      "question": "Qual sua familiariedade com os tipos de investimentos abaixo? <br/> Leve em consideração o valor aplicado nos últimos 2 anos",
+      "radioQuestion": false,
+      
+    }
+  ],
+  "select-options": [
+    {
+      "value": 1,
+      "description": "Nunca operei"
+    },
+    {
+      "value": 2,
+      "description": "Opero pouco e não tenho familiaridade"
+    },
+    {
+      "value": 3,
+      "description": "Opero eventualmente e conheço os riscos associados"
+    },
+    {
+      "value": 4,
+      "description": "Opero frequentemente e conheço os riscos associados"
     }
   ]
 }
