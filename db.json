@@ -1,0 +1,61 @@
+{
+  "questions": [
+    {
+      "index": 1,
+      "question": "Qual o seu comportamento com relação aos seus investimentos?",
+      "radioQuestion": true,
+      "itens": [
+        {
+          "value": 1,
+          "description": "PRESERVAR MEU DINHEIRO SEM CORRER RISCOS"
+        },
+        {
+          "value": 2,
+          "description": "Ganhar mais dinheiro assumindo riscos moderados "
+        },
+        {
+          "value": 3,
+          "description": "Ganhar mais dinheiro assumindo riscos agressivos"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "question": "Por quanto tempo você deseja manter seus investimentos?",
+      "radioQuestion": true,
+      "itens": [
+        {
+          "value": 1,
+          "description": "Até 1 ano"
+        },
+        {
+          "value": 2,
+          "description": "De 1 à 3 anos"
+        },
+        {
+          "value": 3,
+          "description": "De 1 à 5 anos"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "question": "Quantos % desses investimentos você pode precisar em um ano?",
+      "radioQuestion": true,
+      "itens": [
+        {
+          "value": 1,
+          "description": "Acima de 75%"
+        },
+        {
+          "value": 2,
+          "description": "De 26% à 74% anos"
+        },
+        {
+          "value": 3,
+          "description": "Até 25%"
+        }
+      ]
+    }
+  ]
+}
