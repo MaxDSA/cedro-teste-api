@@ -60,25 +60,93 @@
     {
       "index": 4,
       "question": "Qual sua familiariedade com os tipos de investimentos abaixo? <br/> Leve em consideração o valor aplicado nos últimos 2 anos",
-      "radioQuestion": false      
-    }
-  ],
-  "select-options": [
-    {
-      "value": 1,
-      "description": "Nunca operei"
-    },
-    {
-      "value": 2,
-      "description": "Opero pouco e não tenho familiaridade"
-    },
-    {
-      "value": 3,
-      "description": "Opero eventualmente e conheço os riscos associados"
-    },
-    {
-      "value": 4,
-      "description": "Opero frequentemente e conheço os riscos associados"
+      "radioQuestion": false,
+      "select-questions": [
+        {
+          "question": "TITULOS DE RENDA FIXA OU TESOURO DIRETO",
+          "select-options": [
+            {
+              "value": 1,
+              "description": "Nunca operei"
+            },
+            {
+              "value": 2,
+              "description": "Opero pouco e não tenho familiaridade"
+            },
+            {
+              "value": 3,
+              "description": "Opero eventualmente e conheço os riscos associados"
+            },
+            {
+              "value": 4,
+              "description": "Opero frequentemente e conheço os riscos associados"
+            }
+          ]
+        },
+        {
+          "question": "FUNDOS DE INVESTIMENTO",
+          "select-options": [
+            {
+              "value": 1,
+              "description": "Nunca operei"
+            },
+            {
+              "value": 2,
+              "description": "Opero pouco e não tenho familiaridade"
+            },
+            {
+              "value": 3,
+              "description": "Opero eventualmente e conheço os riscos associados"
+            },
+            {
+              "value": 4,
+              "description": "Opero frequentemente e conheço os riscos associados"
+            }
+          ]
+        },
+        {
+          "question": "AÇÕES À VISTA",
+          "select-options": [
+            {
+              "value": 1,
+              "description": "Nunca operei"
+            },
+            {
+              "value": 2,
+              "description": "Opero pouco e não tenho familiaridade"
+            },
+            {
+              "value": 3,
+              "description": "Opero eventualmente e conheço os riscos associados"
+            },
+            {
+              "value": 4,
+              "description": "Opero frequentemente e conheço os riscos associados"
+            }
+          ]
+        },
+        {
+          "question": "ALUGUEL DE AÇÕES TERMOS, OPÇÕES E FUTUROS",
+          "select-options": [
+            {
+              "value": 1,
+              "description": "Nunca operei"
+            },
+            {
+              "value": 2,
+              "description": "Opero pouco e não tenho familiaridade"
+            },
+            {
+              "value": 3,
+              "description": "Opero eventualmente e conheço os riscos associados"
+            },
+            {
+              "value": 4,
+              "description": "Opero frequentemente e conheço os riscos associados"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
