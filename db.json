@@ -61,10 +61,10 @@
       "index": 4,
       "question": "Qual sua familiariedade com os tipos de investimentos abaixo? <br/> Leve em consideração o valor aplicado nos últimos 2 anos",
       "radioQuestion": false,
-      "select-questions": [
+      "selectQuestions": [
         {
           "question": "TITULOS DE RENDA FIXA OU TESOURO DIRETO",
-          "select-options": [
+          "selectOptions": [
             {
               "value": 1,
               "description": "Nunca operei"
@@ -85,7 +85,7 @@
         },
         {
           "question": "FUNDOS DE INVESTIMENTO",
-          "select-options": [
+          "selectOptions": [
             {
               "value": 1,
               "description": "Nunca operei"
@@ -106,7 +106,7 @@
         },
         {
           "question": "AÇÕES À VISTA",
-          "select-options": [
+          "selectOptions": [
             {
               "value": 1,
               "description": "Nunca operei"
@@ -127,7 +127,7 @@
         },
         {
           "question": "ALUGUEL DE AÇÕES TERMOS, OPÇÕES E FUTUROS",
-          "select-options": [
+          "selectOptions": [
             {
               "value": 1,
               "description": "Nunca operei"
